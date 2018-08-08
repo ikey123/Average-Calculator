@@ -1,0 +1,24 @@
+.appContainer {
+    margin-top: 200px;
+    margin-left: 500px;;
+}
+
+.inputsContainer {
+    margin-top: 20px;
+
+}
+
+.num {
+    margin-bottom: 15px;
+}
+
+.remove {
+    position: absolute;
+    left: 700px;
+}
+
+#average {
+    font-family: 'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-top: 20px;
+}
