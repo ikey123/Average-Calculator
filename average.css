@@ -1,3 +1,16 @@
+body {
+    background-color: #FFFFFF; 
+}
+
+header {
+    background-color: rgba(0, 120, 255, 0.8); /* 使用明亮的蓝色背景，你可以根据需要调整颜色值 */
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;  
+}
+
+
 .appContainer {
     margin-top: 200px;
     margin-left: 500px;;
